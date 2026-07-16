@@ -1,0 +1,19 @@
+src/pipecat/utils/tracing/service_decorators.py
+  s_6e67ff8e91c665::t_39652b141bd244 1109-1128
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "85c5b082a1f5d4fb01cc35f89c858282442f2400",
+  "prompts": {},
+  "sessions": {
+    "s_6e67ff8e91c665": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c7a47bdf-841b-44ac-a265-e3c3752083c7",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Caroline di Vittorio <43390382+carolinedivittorio@users.noreply.github.com>"
+    }
+  }
+}
