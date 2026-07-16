@@ -1,0 +1,23 @@
+tests/test_gemini_live_tracing.py
+  s_453eb3991b86d3::t_b4a73b114da9cc 64-74
+  s_453eb3991b86d3::t_c6c3105e5e6e3b 1-53,75,78-142
+  s_453eb3991b86d3::t_6f3c4c5765fdb5 54-63,76-77
+changelog/5051.fixed.md
+  s_453eb3991b86d3::t_1fc12b60e3e8d6 1-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "6d5906576d1e6603bdd923a468bc8d1ca813980b",
+  "prompts": {},
+  "sessions": {
+    "s_453eb3991b86d3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c8ec145e-0cf5-49d4-bddc-80b6e9450afb",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Caroline di Vittorio <43390382+carolinedivittorio@users.noreply.github.com>"
+    }
+  }
+}
